@@ -1,0 +1,11 @@
+D:\c#\poject1\poject1\bin\Debug\poject1.exe.config
+D:\c#\poject1\poject1\bin\Debug\poject1.exe
+D:\c#\poject1\poject1\bin\Debug\poject1.pdb
+D:\c#\poject1\poject1\obj\Debug\poject1.csproj.AssemblyReference.cache
+D:\c#\poject1\poject1\obj\Debug\poject1.csproj.SuggestedBindingRedirects.cache
+D:\c#\poject1\poject1\obj\Debug\poject1.Form1.resources
+D:\c#\poject1\poject1\obj\Debug\poject1.Properties.Resources.resources
+D:\c#\poject1\poject1\obj\Debug\poject1.csproj.GenerateResource.cache
+D:\c#\poject1\poject1\obj\Debug\poject1.csproj.CoreCompileInputs.cache
+D:\c#\poject1\poject1\obj\Debug\poject1.exe
+D:\c#\poject1\poject1\obj\Debug\poject1.pdb

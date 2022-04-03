@@ -1,0 +1,12 @@
+D:\c#\prog2\prog2\bin\Debug\prog2.exe.config
+D:\c#\prog2\prog2\bin\Debug\prog2.exe
+D:\c#\prog2\prog2\bin\Debug\prog2.pdb
+D:\c#\prog2\prog2\obj\Debug\prog2.csproj.AssemblyReference.cache
+D:\c#\prog2\prog2\obj\Debug\prog2.csproj.SuggestedBindingRedirects.cache
+D:\c#\prog2\prog2\obj\Debug\prog2.Form1.resources
+D:\c#\prog2\prog2\obj\Debug\prog2.Properties.Resources.resources
+D:\c#\prog2\prog2\obj\Debug\prog2.csproj.GenerateResource.cache
+D:\c#\prog2\prog2\obj\Debug\prog2.csproj.CoreCompileInputs.cache
+D:\c#\prog2\prog2\obj\Debug\prog2.exe
+D:\c#\prog2\prog2\obj\Debug\prog2.pdb
+D:\c#\prog2\prog2\obj\Debug\prog2.Form2.resources
